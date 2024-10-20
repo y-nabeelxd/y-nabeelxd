@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hey there, I'm Nabeel 👋</h1>
 
 <p align="center">
@@ -25,8 +26,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/y-nabeelxd?tab=repositories">
     <img src="https://badges.pufler.dev/repos/y-nabeelxd" alt="Repositories">
   </a>
-  <a href="https://www.linkedin.com/in/y-nabeelxd/">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin" alt="LinkedIn">
+  <a href="https://www.instagram.com/nkmods.666_opz">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-pink?style=flat&logo=instagram" alt="Instagram">
   </a>
 </p>
 
@@ -34,50 +35,18 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-- 🎓 Passionate developer and open-source enthusiast. 
-- 💻 Always exploring new technologies and improving my skills in software development.
-- 🔭 Currently working on awesome **GTA San Andreas Multiplayer (SAMP)** projects.
-- 🌱 Learning never stops! Currently mastering **JavaScript**, **Node.js**, and **SAMP scripting**.
-- 💬 Ask me about **SAMP**, **game modding**, **back-end development**, or **anything tech**!
+- 🔭 I’m currently working on my latest GitHub repository, feel free to check it out below!
+- 🌱 I’m always learning, with a focus on mastering the top 10 most popular languages: **JavaScript**, **Python**, **C++**, **Java**, **PHP**, **TypeScript**, **Ruby**, **Swift**, **Kotlin**, and **Go**.
+- 👯 I’m looking to collaborate on exciting **open-source projects** and **innovative tools**.
+- 🤔 I’m seeking help with **game modding** and **advanced bot development**.
+- 💬 Ask me about **WhatsApp/Telegram/Discord bots**, **game modding**, **app modding**, **plugins**, **SAMP mapping**, **SAMP modding**, and more.
 - 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m a **Certified Ethical Hacker**, solving problems and bringing helpful tools to people is my passion.
+- 💻 I’m from India, Kerala, and I love both **hacking** and **software development**. I’m also a huge advocate of **open-source contributions**.
 
 ---
 
-### ⚡ Tech Stack
-
-- **Languages:** 
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![PAWN](https://img.shields.io/badge/PAWN-27338e?style=flat&logo=pawn&logoColor=white)
-
-- **Tools & Frameworks:**
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) 
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-- **Game Modding:**
-  ![SAMP](https://img.shields.io/badge/SAMP-%232083AB.svg?style=flat&logo=gtasanandreas&logoColor=white)
-
----
-
-### 🌟 Featured Projects
-
-<a href="https://github.com/y-nabeelxd/gta-samp-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-nabeelxd&repo=gta-samp-server&theme=radical" />
-</a>
-
-<a href="https://github.com/y-nabeelxd/awesome-nodejs-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-nabeelxd&repo=awesome-nodejs-app&theme=radical" />
-</a>
-
-<a href="https://github.com/y-nabeelxd?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Projects-%2312100E.svg?style=for-the-badge" alt="View All Projects">
-</a>
-
----
-
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=y-nabeelxd&show_icons=true&theme=radical" alt="Nabeel's GitHub Stats" />
@@ -97,24 +66,52 @@ Here are some ideas to get you started:
 
 ---
 
-### 💼 Connect With Me
+### 🌟 Featured Projects
+
+<a href="https://github.com/y-nabeelxd/gta-samp-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-nabeelxd&repo=gta-samp-server&theme=radical" />
+</a>
+
+<a href="https://github.com/y-nabeelxd/awesome-nodejs-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-nabeelxd&repo=awesome-nodejs-app&theme=radical" />
+</a>
+
+<a href="https://github.com/y-nabeelxd?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Projects-%2312100E.svg?style=for-the-badge" alt="View All Projects">
+</a>
+
+---
+
+### 📫 How to Reach Me
+
+- **Instagram**: [nkmods.666_opz](https://www.instagram.com/nkmods.666_opz)
+- **WhatsApp**: [Contact Now](https://wa.me/917591970432)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/y-nabeelxd/">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.instagram.com/nkmods.666_opz">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-pink?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
-  <a href="mailto:nabeelxd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/y-nabeelxd">
-    <img src="https://img.shields.io/badge/GitHub-Follow-darkblue?style=for-the-badge&logo=github" alt="GitHub">
+  <a href="https://wa.me/917591970432">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact%20Now-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   </a>
 </p>
 
 ---
 
-### 📈 Visitors
+### 🎧 Follow My Playlist
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=y-nabeelxd&style=for-the-badge" alt="y-nabeelxd Profile Views" />
-</p>
+- **Spotify**: [Check out my playlist](https://open.spotify.com/user/vw5f19shxndzrglmmevt6f3l3?si=RHiHZwqbRhyUn3k9rr9llA)
+
+---
+
+### 🔗 Follow Me On
+
+- **Instagram**: [nkmods.666_opz](https://www.instagram.com/nkmods.666_opz)
+- **GitHub**: [y-nabeelxd](https://github.com/y-nabeelxd) | [NKMODS](https://github.com/NKMODS)
+- **Spotify**: [Follow My Playlist](https://open.spotify.com/user/vw5f19shxndzrglmmevt6f3l3?si=RHiHZwqbRhyUn3k9rr9llA)
+
+---
+
+### ⚡ Fun Fact
+
+I’m a **Certified Ethical Hacker**! Whether it’s hacking or developing, I’m passionate about using my skills to solve problems and create helpful tools for the community.
