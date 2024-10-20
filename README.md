@@ -95,9 +95,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 🎧 Follow My Playlist
+### 🎧 My Playlist
 
-- **Spotify**: [Check out my playlist](https://open.spotify.com/user/vw5f19shxndzrglmmevt6f3l3?si=RHiHZwqbRhyUn3k9rr9llA)
+- **Spotify**: [Follow & Check out my playlist](https://open.spotify.com/user/vw5f19shxndzrglmmevt6f3l3?si=RHiHZwqbRhyUn3k9rr9llA)
 
 ---
 
@@ -105,7 +105,6 @@ Here are some ideas to get you started:
 
 - **Instagram**: [nkmods.666_opz](https://www.instagram.com/nkmods.666_opz)
 - **GitHub**: [y-nabeelxd](https://github.com/y-nabeelxd) | [NKMODS](https://github.com/NKMODS)
-- **Spotify**: [Follow Me](https://open.spotify.com/user/vw5f19shxndzrglmmevt6f3l3?si=RHiHZwqbRhyUn3k9rr9llA)
 
 ---
 
