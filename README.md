@@ -84,9 +84,6 @@ Here are some ideas to get you started:
 
 ### 📫 How to Reach Me
 
-- **Instagram**: [nkmods.666_opz](https://www.instagram.com/nkmods.666_opz)
-- **WhatsApp**: [Contact Now](https://wa.me/917591970432)
-
 <p align="center">
   <a href="https://www.instagram.com/nkmods.666_opz">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me-pink?style=for-the-badge&logo=instagram" alt="Instagram">
