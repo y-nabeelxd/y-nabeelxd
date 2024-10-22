@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e9/e0/7c/e9e07cd1308b531c59510f3dad4263aa.gif" alt="Luffy"/>
+  <img src="https://camo.githubusercontent.com/f05bc71c670c1fa78270b8477c4dfdffa45366c390de0efce32edf285ceb3e1c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65392f65302f37632f65396530376364313330386235333163353935313066336461643432363361612e676966" alt="Luffy"/>
 </p>
 <h1 align="center">Hey there, I'm Nabeel XD 👋</h1>
 
