@@ -69,11 +69,11 @@ Here are some ideas to get you started:
 ### 🌟 Featured Projects
 
 <a href="https://github.com/y-nabeelxd/gta-samp-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-nabeelxd&repo=gta-samp-server&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-nabeelxd&repo=gta-phpmyadmin-installer&theme=radical" />
 </a>
 
 <a href="https://github.com/y-nabeelxd/awesome-nodejs-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-nabeelxd&repo=awesome-nodejs-app&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-nabeelxd&repo=Termux-Auto-Package-Installer&theme=radical" />
 </a>
 <br>
 <a href="https://github.com/y-nabeelxd?tab=repositories">
