@@ -101,21 +101,7 @@ I’m a **Certified Ethical Hacker**! Whether it’s hacking or developing, I’
 
 ### 🎵 Now Playing: "Die for You" by The Weeknd
 
-<button id="playPauseButton">Play</button>
-
-  <audio id="song" src="https://www.pagalworld.com.so/files/download/id/12685"></audio>
-
-  <script>
-    const song = document.getElementById('song');
-    const playPauseButton = document.getElementById('playPauseButton');
-
-    playPauseButton.addEventListener('click', () => {
-      if (song.paused) {
-        song.play();
-        playPauseButton.textContent = 'Pause';
-      } else {
-        song.pause();
-        playPauseButton.textContent = 'Play';
-      }
-    });
-  </script>
+  <audio controls>
+    <source src="https://www.pagalworld.com.so/files/download/id/12685" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
