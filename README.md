@@ -93,33 +93,29 @@
 
 ---
 
-### 🎵 Now Playing: "Die for You" by The Weeknd
-
-<div align="center">
-  <button id="playButton" style="background-color: #ff4da6; border-radius: 50%; border: none; padding: 20px 30px; font-size: 24px; cursor: pointer;">
-    ▶️
-  </button>
-  <p id="songTitle" style="font-family: 'Arial', sans-serif; font-size: 18px; margin-top: 10px;">Die for You - The Weeknd</p>
-  <audio id="audioPlayer" src="Die-for-you.mp3"></audio>
-</div>
-
-<script>
-  const playButton = document.getElementById('playButton');
-  const audioPlayer = document.getElementById('audioPlayer');
-  
-  playButton.addEventListener('click', function() {
-    if (audioPlayer.paused) {
-      audioPlayer.play();
-      playButton.innerHTML = '⏸️'; // Change to pause button
-    } else {
-      audioPlayer.pause();
-      playButton.innerHTML = '▶️'; // Change to play button
-    }
-  });
-</script>
-
----
-
 ### ⚡ Fun Fact
 
 I’m a **Certified Ethical Hacker**! Whether it’s hacking or developing, I’m passionate about using my skills to solve problems and create helpful tools for the community.
+
+---
+
+### 🎵 Now Playing: "Die for You" by The Weeknd
+
+<button id="playPauseButton">Play</button>
+
+  <audio id="song" src="https://www.pagalworld.com.so/files/download/id/12685"></audio>
+
+  <script>
+    const song = document.getElementById('song');
+    const playPauseButton = document.getElementById('playPauseButton');
+
+    playPauseButton.addEventListener('click', () => {
+      if (song.paused) {
+        song.play();
+        playPauseButton.textContent = 'Pause';
+      } else {
+        song.pause();
+        playPauseButton.textContent = 'Play';
+      }
+    });
+  </script>
