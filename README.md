@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47361df0-7a0b-4149-92d6-dd127f25a9f8/dfm11pb-63740cae-a8ab-43cb-bf90-0351c5f89ff5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3MzYxZGYwLTdhMGItNDE0OS05MmQ2LWRkMTI3ZjI1YTlmOFwvZGZtMTFwYi02Mzc0MGNhZS1hOGFiLTQzY2ItYmY5MC0wMzUxYzVmODlmZjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LYrnnmauRJz-ew4GSGEzG7wYzDod0E0sOqpWN2SIrpg" alt="Luffy" width="600px" />
+</p>
 <h1 align="center">Hey there, I'm Nabeel XD 👋</h1>
 
 <p align="center">
