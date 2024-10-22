@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ### 🌟 Featured Projects
 
 <a href="https://github.com/y-nabeelxd/gta-samp-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-nabeelxd&repo=gta-phpmyadmin-installer&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-nabeelxd&repo=phpmyadmin-installer&theme=radical" />
 </a>
 
 <a href="https://github.com/y-nabeelxd/awesome-nodejs-app">
