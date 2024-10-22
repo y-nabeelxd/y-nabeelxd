@@ -96,12 +96,3 @@
 ### ⚡ Fun Fact
 
 I’m a **Certified Ethical Hacker**! Whether it’s hacking or developing, I’m passionate about using my skills to solve problems and create helpful tools for the community.
-
----
-
-### 🎵 Now Playing: "Die for You" by The Weeknd
-
-  <audio controls>
-    <source src="https://www.pagalworld.com.so/files/download/id/12685" type="audio/mp3">
-    Your browser does not support the audio element.
-  </audio>
