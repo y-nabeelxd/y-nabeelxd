@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/y-nabeelxd/awesome-nodejs-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-nabeelxd&repo=awesome-nodejs-app&theme=radical" />
 </a>
-
+<br>
 <a href="https://github.com/y-nabeelxd?tab=repositories">
   <img src="https://img.shields.io/badge/View%20All%20Projects-%2312100E.svg?style=for-the-badge" alt="View All Projects">
 </a>
