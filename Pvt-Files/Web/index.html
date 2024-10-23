@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Text Encryptor</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark-theme">
+  <div class="theme-switch">
+    <button id="theme-toggle" class="toggle-btn">🌙</button>
+  </div>
+
+  <div id="main-buttons">
+    <button id="encrypt-btn">Text to Encryption</button>
+    <button id="decrypt-btn">Encryption to Text</button>
+  </div>
+
+  <!-- Encryption Box -->
+  <div id="encrypt-box" class="hidden blur-box">
+    <button class="close-btn">✖</button>
+    <h2>Encrypt Text</h2>
+    <input type="text" id="input-text" placeholder="Enter text to encrypt">
+    <button id="encrypt-action">Encrypt Text</button>
+    <div id="result" class="hidden">
+      <p>Encrypted Text: <span id="encrypted-text"></span></p>
+      <button id="copy-encrypt" class="copy-btn">Copy</button>
+    </div>
+  </div>
+
+  <!-- Decryption Box -->
+  <div id="decrypt-box" class="hidden blur-box">
+    <button class="close-btn">✖</button>
+    <h2>Decrypt Text</h2>
+    <input type="text" id="input-encrypted" placeholder="Enter encrypted text">
+    <button id="decrypt-action">Decrypt Text</button>
+    <div id="result-decrypt" class="hidden">
+      <p>Decrypted Text: <span id="decrypted-text"></span></p>
+      <button id="copy-decrypt" class="copy-btn">Copy</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
