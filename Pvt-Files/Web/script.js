@@ -1,4 +1,3 @@
-// Theme Toggle
 document.getElementById('theme-toggle').addEventListener('click', () => {
   const body = document.body;
   if (body.classList.contains('dark-theme')) {
