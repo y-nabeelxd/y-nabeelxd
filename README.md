@@ -15,10 +15,8 @@
 
 ### 👨‍💻 About Me
 
-- Web and bot developer with production experience
-- Build WhatsApp/Telegram/Discord bots
-- Create game mods and custom maps
-- Certified Ethical Hacker
+- Full Stack Developer
+- Hosting Provider
 - Active open-source contributor
 - From Kerala, India
 
