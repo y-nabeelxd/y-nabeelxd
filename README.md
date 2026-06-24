@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/luffy.gif" alt="Luffy"/>
+  <img src="src/luffyy.gif" alt="Luffy"/>
   <h1 align="center">Hey, I'm Nabeel XD 👋🏻</h1>
   <p align="center">
     <a href="https://github.com/y-nabeelxd">
