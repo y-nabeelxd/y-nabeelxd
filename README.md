@@ -48,11 +48,11 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=y-nabeelxd&show_icons=true&theme=radical" alt="Nabeel's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=y-nabeelxd&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://nabeelxd.vercel.app/github-readme-stats/api?username=y-nabeelxd&show_icons=true&theme=radical" alt="Nabeel's GitHub Stats" width="48%"/>
+  <img src="https://nabeelxd.vercel.app/github-readme-stats/api/top-langs/?username=y-nabeelxd&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=y-nabeelxd&theme=radical" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nabeelxdd&show_icons=true&theme=radical" alt="Nabeel's Alt GitHub Stats" width="48%"/>
+  <img src="https://nabeelxd.vercel.app/github-readme-stats/api?username=nabeelxdd&show_icons=true&theme=radical" alt="Nabeel's Alt GitHub Stats" width="48%"/>
 </p>
