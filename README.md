@@ -49,7 +49,7 @@
 
 <p align="center">
   <img src="https://nabeelxd.vercel.app/github-readme-stats/api?username=y-nabeelxd&show_icons=true&theme=radical" alt="Nabeel's GitHub Stats" width="48%"/>
-  <img src="https://nabeelxd.vercel.app/github-readme-stats/api/top-langs/?username=y-nabeelxd&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://nabeelxd.vercel.app/github-readme-stats/api/top-langs?username=y-nabeelxd&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">
